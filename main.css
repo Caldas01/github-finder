@@ -1,0 +1,16 @@
+body{
+    background-color: #1c253f;
+    color: white;
+}
+
+.fondo-azul{
+    background-color: #22326b;
+    border-radius: 2%;
+    color: white;
+}
+
+.img-perfil{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
